@@ -13,6 +13,7 @@ Existing demand forecasting systems face a critical challenge:
 - Complex models may fail to produce actionable business insights.
 
 This creates a forecasting paradox:
+
 ⚖️ Balancing short-term operational precision (inventory planning) with long-term strategic insight (product and market strategy) is difficult.
 
 As a result, organizations risk:
