@@ -1,4 +1,4 @@
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/776076fa-1538-472f-850f-3661e92d1a2a" /><img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c2ecfb76-4ea0-4c7f-afd7-b7e532e4f053" /><img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/01a27417-3344-4149-a1f3-82090be7b474" />## 🔋 Energy-Efficient Appliance Demand Forecasting
+## 🔋 Energy-Efficient Appliance Demand Forecasting
 
 ## 📌 Project Overview
 Accurate demand forecasting is essential for optimizing inventory allocation and long-term product strategy in the energy-efficient appliance market.
