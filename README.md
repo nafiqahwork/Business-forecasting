@@ -45,7 +45,7 @@ Performed time series decomposition to analyze:
 --- 
 📈 Historical Demand Analysis
 
-<p align="center"><img width="989" height="590" alt="arima_demand_plot" src="https://github.com/user-attachments/assets/26ea561c-0b64-495f-983a-8a144c24c31b" /> </p>
+<p align="center"> <img width="989" height="590" alt="arima_demand_plot" src="https://github.com/user-attachments/assets/26ea561c-0b64-495f-983a-8a144c24c31b" /> </p>
 
 <p align="center">Figure 01: Time Series Forecast with Trend and Seasonality (1990–2023)</p>
 
