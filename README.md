@@ -69,9 +69,7 @@ Tested external variables to evaluate their influence on demand forecasts.
    - Coefficient ≈ 0
    - p-value ≈ 1.0
   
----
-
-## 💡 Key Insight:
+💡 Key Insight:
 Artificial proxies were statistically insignificant, highlighting the importance of real business-relevant external drivers (e.g., energy policy incentives, seasonal promotions, weather patterns).
 
 --- 
@@ -79,7 +77,7 @@ Artificial proxies were statistically insignificant, highlighting the importance
 
 <p align="center"> <img src="SARIMAX_FORECAST.png" width="700"> </p>
 
-Figure 02: SARIMA(1,1,1)(1,1,1,12) Forecast with Exogenous Variable
+<p align="center"> Figure 02: SARIMA(1,1,1)(1,1,1,12) Forecast with Exogenous Variable</p>
 
 ---
 
@@ -135,10 +133,10 @@ Delivered a modular and scalable forecasting pipeline capable of:
 ---
 
 ## 🚀 Key Skills Demonstrated
-Time Series Forecasting
-ARIMA / SARIMA / SARIMAX Modeling
-Forecast Model Evaluation
-Demand Forecasting Strategy
-Statistical Modeling
-Business-Driven Data Science
-Inventory Optimization Analytics
+- Time Series Forecasting
+- ARIMA / SARIMA / SARIMAX Modeling
+- Forecast Model Evaluation
+- Demand Forecasting Strategy
+- Statistical Modeling
+- Business-Driven Data Science
+- Inventory Optimization Analytics
