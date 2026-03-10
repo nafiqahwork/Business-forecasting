@@ -39,10 +39,10 @@ Performed time series decomposition to analyze:
 
 --- 
 
-📊 Historical demand visualization revealed clear seasonality and trend components.
+Historical demand visualization revealed clear seasonality and trend components.
 
 --- 
-📈 Historical Demand Analysis
+Historical Demand Analysis
 
 <p align="center"> <img width="989" height="590" alt="arima_demand_plot" src="https://github.com/user-attachments/assets/26ea561c-0b64-495f-983a-8a144c24c31b" /> </p>
 
