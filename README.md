@@ -1,4 +1,4 @@
-## 🔋 Energy-Efficient Appliance Demand Forecasting
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/776076fa-1538-472f-850f-3661e92d1a2a" /><img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c2ecfb76-4ea0-4c7f-afd7-b7e532e4f053" /><img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/01a27417-3344-4149-a1f3-82090be7b474" />## 🔋 Energy-Efficient Appliance Demand Forecasting
 
 ## 📌 Project Overview
 Accurate demand forecasting is essential for optimizing inventory allocation and long-term product strategy in the energy-efficient appliance market.
@@ -45,9 +45,9 @@ Performed time series decomposition to analyze:
 --- 
 📈 Historical Demand Analysis
 
-<p align="center"> <img src="HISTORICAL_DEMAND_PLOT.png" width="700"> </p>
+<p align="center"><img width="989" height="590" alt="arima_demand_plot" src="https://github.com/user-attachments/assets/26ea561c-0b64-495f-983a-8a144c24c31b" /> </p>
 
-Figure 01: Time Series Forecast with Trend and Seasonality (1990–2023)
+<p align="center">Figure 01: Time Series Forecast with Trend and Seasonality (1990–2023)</p>
 
 --- 
 
@@ -76,7 +76,7 @@ Artificial proxies were statistically insignificant, highlighting the importance
 --- 
 📊 SARIMAX Forecast Visualization
 
-<p align="center"> <img src="SARIMAX_FORECAST.png" width="700"> </p>
+<p align="center"> <img width="831" height="374" alt="arima_sarimax_forecast" src="https://github.com/user-attachments/assets/f3bde616-245d-4697-bf4e-0a2b44e8d4bd" /> </p>
 
 <p align="center"> Figure 02: SARIMA(1,1,1)(1,1,1,12) Forecast with Exogenous Variable</p>
 
