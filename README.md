@@ -2,7 +2,7 @@
 
 ## Project Overview
 Accurate demand forecasting is essential for optimizing inventory allocation and long-term product strategy in the energy-efficient appliance market.
-This project analyzes 30+ years of historical demand data and compares multiple time-series forecasting models — ARIMA, SARIMA, SARIMAX, and Prophet — to determine the most reliable approach for balancing operational forecasting precision with strategic business insights.
+This project analyzes 30+ years of historical demand data and compares multiple time-series forecasting models — ARIMA, SARIMA, SARIMAX and Prophet — to determine the most reliable approach for balancing operational forecasting precision with strategic business insights.
 The analysis highlights how model selection and external business drivers influence forecasting accuracy and strategic decision-making.
 
 --- 
